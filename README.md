@@ -1,3 +1,5 @@
 # hello-world
 just another repositary
-i am just learining machine study
+
+import numpy as np
+import pandas as pd
